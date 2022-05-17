@@ -1,0 +1,3 @@
+- Arquivo com um parágrafo.
+
+<p>Lorem ipsum dolor sit amet. Ab rerum doloremque quo sint nisi ad iure perspiciatis et consequuntur voluptatem. Rem voluptas internos ex cumque iste eos eveniet veniam. </p><p>Ex quae enim est consequatur porro id tempore vitae. Qui recusandae natus et  perspiciatis est debitis omnis et praesentium corrupti in voluptatem dolores sit galisum architecto hic nihil mollitia. </p><p>Et dolores autem et possimus assumenda non impedit reiciendis in porro iste sed commodi veniam ad sapiente illo. Id molestiae autem  facilis adipisci et dignissimos sequi aut quis repellendus aut voluptatem quos et dicta rerum et magni obcaecati. Est ipsum deleniti eum unde porro qui quod delectus vel officia praesentium est obcaecati porro. </p>
